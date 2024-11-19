@@ -1,6 +1,6 @@
-let pronoun = ['the', 'our'];
-let adj = ['great', 'big'];
-let noun = ['jogger', 'racoon'];
+let pronoun = ['the', 'our','you'];
+let adj = ['great', 'big','better'];
+let noun = ['jogger', 'racoon','pipe'];
 let extensions = ['.com','.net','.us','io']
 
 
